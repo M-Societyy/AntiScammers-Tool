@@ -14,7 +14,7 @@ Herramienta oficial de M-Society para manejar y proteger webhooks contra scammer
 ## Requisitos
 - Windows
 
-Discord
+Only available on Discord
 Join our Discord : https://discord.gg/9QRngbrMKS
 
 Watch the video 
